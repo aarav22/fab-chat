@@ -1,5 +1,7 @@
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
 
+## Blockchain and Crytocurrency Course: 
+Please refer to [Instructions](https://github.com/aarav22/fab-chat/blob/main/Hyperledger%20Fabric%20-%20Blockchain%20Spring%202021.pdf)
 ## Hyperledger Fabric Samples
 
 Please visit the [installation instructions](http://hyperledger-fabric.readthedocs.io/en/latest/install.html)
